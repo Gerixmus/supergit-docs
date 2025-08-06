@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksupergit_docs=self.webpackChunksupergit_docs||[]).push([[5441],{5229:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/supergit-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
