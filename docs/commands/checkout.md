@@ -3,6 +3,16 @@ sidebar_label: 'checkout'
 sidebar_position: 2
 ---
 
-# Checkout
+# sg checkout
 
-This is my **first Docusaurus document**!
+`sg checkout [OPTIONS]`
+
+## Description
+
+Switch branches or restore working tree files.
+
+## Options
+
+| Option | Description |
+| - | - |
+| `-b, --branch` | Interactively create a branch |
