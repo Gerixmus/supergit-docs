@@ -75,7 +75,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'SuperGit',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -103,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/get-started',
             },
           ],
         },
@@ -138,7 +138,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SuperGit. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
